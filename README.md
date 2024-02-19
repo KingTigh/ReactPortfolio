@@ -1,0 +1,2 @@
+My original dev portfolio created by modifying the tutorial found here: https://www.youtube.com/watch?v=3HNyXCPDQ7Q. Due to an update to both the backend sanity.io and node the front and backend are no longer correctly communicating and I've decided to make a new,
+simpler portfolio I can easily update and manage. This was a great learning experience in terms of react, sass, framer motion, and backend web design.
